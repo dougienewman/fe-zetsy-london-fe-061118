@@ -55,7 +55,9 @@ p {
     text-decoration: none;
 }
 
-
+.small {
+    font-size: 0.8em;
+}
 
 
 
